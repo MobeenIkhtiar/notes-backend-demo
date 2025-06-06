@@ -1,0 +1,91 @@
+D:\all_dotnet\demo_docker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\all_dotnet\demo_docker\bin\Debug\demo_docker.deps.json
+D:\all_dotnet\demo_docker\bin\Debug\demo_docker.runtimeconfig.json
+D:\all_dotnet\demo_docker\bin\Debug\appsettings.Development.json
+D:\all_dotnet\demo_docker\bin\Debug\appsettings.json
+D:\all_dotnet\demo_docker\bin\Debug\demo_docker.staticwebassets.endpoints.json
+D:\all_dotnet\demo_docker\bin\Debug\demo_docker.exe
+D:\all_dotnet\demo_docker\bin\Debug\demo_docker.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.AspNetCore.OpenApi.dll
+D:\all_dotnet\demo_docker\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.Options.dll
+D:\all_dotnet\demo_docker\bin\Debug\StackExchange.Redis.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.OpenApi.dll
+D:\all_dotnet\demo_docker\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\all_dotnet\demo_docker\bin\Debug\Npgsql.dll
+D:\all_dotnet\demo_docker\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\all_dotnet\demo_docker\bin\Debug\demo_docker.pdb
+D:\all_dotnet\demo_docker\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\all_dotnet\demo_docker\obj\Debug\docker-c.35A3FFBA.Up2Date
+D:\Notes Project\demo_docker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Notes Project\demo_docker\bin\Debug\appsettings.Development.json
+D:\Notes Project\demo_docker\bin\Debug\demo_docker.staticwebassets.endpoints.json
+D:\Notes Project\demo_docker\bin\Debug\demo_docker.deps.json
+D:\Notes Project\demo_docker\bin\Debug\demo_docker.runtimeconfig.json
+D:\Notes Project\demo_docker\bin\Debug\appsettings.json
+D:\Notes Project\demo_docker\bin\Debug\demo_docker.exe
+D:\Notes Project\demo_docker\bin\Debug\demo_docker.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.AspNetCore.OpenApi.dll
+D:\Notes Project\demo_docker\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Notes Project\demo_docker\bin\Debug\StackExchange.Redis.dll
+D:\Notes Project\demo_docker\bin\Debug\Microsoft.OpenApi.dll
+D:\Notes Project\demo_docker\bin\Debug\Npgsql.dll
+D:\Notes Project\demo_docker\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\Notes Project\demo_docker\bin\Debug\demo_docker.pdb
+D:\Notes Project\demo_docker\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Notes Project\demo_docker\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\appsettings.Development.json
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\appsettings.json
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\demo_docker.deps.json
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\demo_docker.runtimeconfig.json
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\demo_docker.staticwebassets.endpoints.json
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\demo_docker.exe
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\demo_docker.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.AspNetCore.OpenApi.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\System.Text.Json.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.Extensions.Options.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\StackExchange.Redis.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Microsoft.OpenApi.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Npgsql.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\DriveE\development\DotNetProjects\notes-back\bin\Debug\demo_docker.pdb
+C:\DriveE\development\DotNetProjects\notes-back\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\DriveE\development\DotNetProjects\notes-back\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\DriveE\development\DotNetProjects\notes-back\obj\Debug\docker-c.35A3FFBA.Up2Date

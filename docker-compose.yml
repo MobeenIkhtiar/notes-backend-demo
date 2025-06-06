@@ -1,0 +1,24 @@
+services:
+  demo_docker:
+    image: ${DOCKER_REGISTRY-}demodocker
+    build:
+     context: .
+     dockerfile: demo_docker/Dockerfile
+    ports:
+     - "5001:5001"
+     # - "5002:5002"
+  products.database:
+     image: postgres:latest
+     container_name: products.database
+     environment: 
+      - POSTGRES_DB=products
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+     ports:
+      - 5432:5432
+     
+  products.cache:
+    image : redis:latest
+    restart : always
+    ports: 
+     - '6379:6379'
